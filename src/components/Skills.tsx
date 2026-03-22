@@ -17,7 +17,7 @@ const skillCategories = [
   },
   {
     title: "AI & Data Science",
-    skills: ["PyTorch", "YOLO", "OpenCV", "NumPy", "Deep Learning"],
+    skills: ["PyTorch", "YOLO", "OpenCV", "NumPy", "Scikit-learn"],
   },
   {
     title: "DevOps & Tools",

@@ -18,6 +18,7 @@ const experiences = [
     role: "Software Engineer",
     company: "MyStones",
     period: "Aug 2025 - Present",
+    location: "Remote",
     bullets: [
       "Backend and mobile development, building core product features",
     ],

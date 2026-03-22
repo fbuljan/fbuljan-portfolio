@@ -12,7 +12,7 @@ export const projects: Project[] = [
     description:
       "Full-stack platform for Erasmus project discovery and application. Winner of Lumen Development 2023 and 3rd place at Digital Innovation Incubator Croatia 2024.",
     tech: ["Vue.js", "Firebase"],
-    github: "https://github.com/ErasmusConnect",
+    github: "https://erasmus-connect.vercel.app/",
     featured: true,
   },
   {
