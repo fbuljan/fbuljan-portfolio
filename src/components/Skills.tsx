@@ -9,7 +9,7 @@ const skillCategories = [
   },
   {
     title: "Backend & Data",
-    skills: ["Node.js", "ASP.NET", "PostgreSQL", "Firebase", "REST APIs"],
+    skills: ["Node.js", "ASP.NET", "FastAPI", "PostgreSQL", "Firebase", "REST APIs"],
   },
   {
     title: "Frontend & Mobile",
@@ -17,7 +17,7 @@ const skillCategories = [
   },
   {
     title: "AI & Data Science",
-    skills: ["PyTorch", "YOLO", "OpenCV", "NumPy", "Scikit-learn"],
+    skills: ["PyTorch", "YOLO", "FAISS", "OpenCV", "NumPy", "Scikit-learn"],
   },
   {
     title: "DevOps & Tools",

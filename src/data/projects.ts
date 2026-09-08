@@ -32,10 +32,10 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    title: "RTG Teeth Detection",
+    title: "Dental X-Ray Person Identification",
     description:
-      "Neural network for detection and segmentation of teeth on dental X-ray images using deep learning.",
-    tech: ["Python", "PyTorch", "Computer Vision"],
+      "Person identification from panoramic dental X-rays: YOLO segments each tooth, a metric-learning embedder turns it into a vector, and FAISS retrieves the match from a 1,178-person registry. Master's thesis at FER.",
+    tech: ["Python", "PyTorch", "YOLO", "FAISS", "FastAPI"],
     github: "https://github.com/fbuljan/RTG-image-teeth-detection",
     featured: true,
   },
